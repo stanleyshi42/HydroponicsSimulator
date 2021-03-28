@@ -2,6 +2,7 @@
 TuffyHacks 2021 Project
 
 https://tuffyhacks.com/
+
 https://www.notion.so/TuffyHacks-Hacker-Camper-Guide-b6d48f4c0ccb40d0b3a32aef02cc51eb
 
 ## Inspiration
