@@ -1,5 +1,7 @@
 # HydroponicsSimulator
 TuffyHacks 2021 Project
+https://tuffyhacks.com/
+https://www.notion.so/TuffyHacks-Hacker-Camper-Guide-b6d48f4c0ccb40d0b3a32aef02cc51eb
 
 ## Inspiration
 I took an introduction to environmental science course several years ago and was quite interested in the variety of material it covered. One particular topic that stuck with me was hydroponics, which is a modern form of agriculture. 
